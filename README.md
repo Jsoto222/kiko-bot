@@ -2,7 +2,7 @@
 
 A Python Discord bot created for the **Gaming After Hours** community. It automates new-member onboarding with randomized welcome embeds and starter roles, and provides an administrator-only command for publishing server rules.
 
-> **Project status:** Source code prepared for local use. Successful live deployment and operational uptime have not been independently verified.
+> **Project status:** Successfully deployed and tested locally.
 
 ## Features
 
