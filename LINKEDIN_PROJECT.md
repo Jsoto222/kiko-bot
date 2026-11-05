@@ -1,4 +1,4 @@
-# LinkedIn project entry — copy-ready
+# LinkedIn project entry 
 
 **Project name:** Kiko | Discord Community Automation Bot
 
@@ -6,7 +6,7 @@
 
 **Skills:** Python · Asynchronous Programming · Discord.py · Event-Driven Programming · API Integration · Access Control · Environment Variables · Troubleshooting
 
-## Project description (LinkedIn Projects section)
+## Project description
 
 Developed a Python-based Discord bot to automate community onboarding and simplify server management. Built event-driven functionality using discord.py to deliver personalized welcome messages, assign roles to new members, and publish administrator-controlled server rules. Organized configuration using environment variables, added error handling for permissions and API failures, and created Windows setup scripts for repeatable local installation.
 
@@ -19,7 +19,6 @@ Developed a Python-based Discord bot to automate community onboarding and simpli
 - Improved credential handling with `.env`, `.gitignore`, and reusable setup scripts.
 - Documented installation, configuration, and troubleshooting steps.
 
-## Short résumé version
 
 **Kiko — Discord Automation Bot | Python Project**
 - Developed an event-driven Discord bot using Python and discord.py to automate member onboarding, welcome messages, and role assignment.
