@@ -25,7 +25,7 @@ Developed a Python-based Discord bot to automate community onboarding and simpli
 - Implemented administrator-restricted commands, API error handling, and environment-based configuration.
 - Packaged the project with dependency management, Windows launch scripts, and technical setup documentation.
 
-## Optional LinkedIn post (after you have tested it)
+## Optional LinkedIn post
 
 I’ve been working on a personal Python project called **Kiko**, a Discord community automation bot for a gaming server.
 
